@@ -1,0 +1,1 @@
+{"total_delivery_duration": 2251, "routes": {"1": {"jobs": [3, 4, 5], "delivery_duration": 2025}, "2": {"jobs": [], "delivery_duration": 0}, "3": {"jobs": [6], "delivery_duration": 226}}}
